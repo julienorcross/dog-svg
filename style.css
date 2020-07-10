@@ -11,7 +11,7 @@ body {
 }
 
 #tail {
-  transform-origin: 25% 32%;
+  transform-origin: 23% 32%;
   animation: tail-wag 1s ease-in-out;
   animation-direction: alternate;
   animation-iteration-count: infinite;
