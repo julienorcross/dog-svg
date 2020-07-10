@@ -2,8 +2,12 @@ body {
   margin: 0 50px;
 }
 
+.container {
+  max-width: 600px;
+}
+
 #dog {
-  width: 600px;
+  width: 100%;
 }
 
 #tail {
